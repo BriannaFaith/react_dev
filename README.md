@@ -1,0 +1,1 @@
+This repo contains react applications for development and testing purposes.
